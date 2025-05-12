@@ -11,6 +11,6 @@
     <p>CSS</p>
     <p>JAVA SCRIPT</p>
   <br>
-<img src="https://github.com/WenddylReis/mario/blob/main/assets/Foto%2002%20-%20Mario.png?raw=true" width=200px/>
+
 
 <h3>Projeto Responsivo</h3>
